@@ -1,0 +1,6 @@
+{
+  "name": "WriteBot Controller",
+  "description": "Native XY pen plotter controller for DIY ESP8266 Wi-Fi pen plotters with live jog control, vector canvas, Hershey text engine, and REST API commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
